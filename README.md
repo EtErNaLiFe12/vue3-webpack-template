@@ -1,4 +1,6 @@
-# Vue3 템플릿 with Webpack
+# Vue3 template with Webpack
+
+## vue3 + webpack template 입니다.
 
 ## Versions
 

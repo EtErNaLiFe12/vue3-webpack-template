@@ -31,7 +31,7 @@ module.exports = {
     rules: [
       {
         test: /\.vue$/,
-        use: 'vue-loader'
+        use: 'vue-loader' // loader가 여러개가 아닌경우에는 [] 배열 데이터를 사용 할 필요가 없음.
       },
       {
         test: /\.s?css$/,
